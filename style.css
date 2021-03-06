@@ -215,3 +215,11 @@ input {
     -webkit-transform: rotateY(180deg);
     transform: rotateY(180deg);
 }
+
+button {
+    width: 100%;
+    background: lightblue;
+    border: none;
+    padding: 15px;
+    font-size: 16px;
+}
